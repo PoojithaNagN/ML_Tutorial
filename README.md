@@ -14,8 +14,7 @@ This repository includes:
 ```
 📦 ML-Tutorials
  ┣ 📂 Notebooks
- ┃ ┣ 📜 Linear_Regression.ipynb
- ┃ ┣ 📜 Decision_Trees.ipynb
+ ┃ ┣ 📜 
  ┃ ┗ 📜
 ```
 
