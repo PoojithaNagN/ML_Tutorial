@@ -10,8 +10,12 @@ The goal is to explore various machine learning algorithms and compare predictio
 - **Exploratory Data Analysis (EDA)** and visualization techniques.
 - Notes and explanations to reinforce key ML topics.
 
+
+
 Topics Covered
-✅ Supervised Learning (Regression & Classification)  
+
+✅ Supervised Learning (Regression & Classification) 
+
 ✅ Unsupervised Learning (Clustering, Dimensionality Reduction) 
 
 
